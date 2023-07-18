@@ -8,6 +8,7 @@ Live sites at:
 - https://dimagic50.github.io/HEAD-FIRST-Lounge/
 - https://dimagic50.github.io/odin-recipes/
 - https://dimagic50.github.io/Starbuzz-Coffee/
+- https://dimagic50.github.io/HEAD-FIRST-Journal-travel/
 
 <!---
 dimagic50/dimagic50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
