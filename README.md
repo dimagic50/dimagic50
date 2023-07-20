@@ -5,10 +5,10 @@
 - 📫 How to reach me : giancarlo.dimartino@gmail.com
 
 Live sites at:
-- https://dimagic50.github.io/HEAD-FIRST-Lounge/
-- https://dimagic50.github.io/odin-recipes/
-- https://dimagic50.github.io/Starbuzz-Coffee/
-- https://dimagic50.github.io/HEAD-FIRST-Journal-travel/
+1. https://dimagic50.github.io/HEAD-FIRST-Lounge/
+2. https://dimagic50.github.io/odin-recipes/
+3. https://dimagic50.github.io/Starbuzz-Coffee/
+4. https://dimagic50.github.io/HEAD-FIRST-Journal-travel/
 
 <!---
 dimagic50/dimagic50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
